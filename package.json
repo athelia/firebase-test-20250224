@@ -1,0 +1,13 @@
+{
+  "name": "firebase-project",
+  "version": "1.0.0",
+  "description": "Firebase hosting project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build step needed\""
+  },
+  "private": true,
+  "devDependencies": {
+    "firebase-tools": "^13.31.2"
+  }
+} 
