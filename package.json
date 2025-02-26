@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Firebase hosting project",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build step needed\""
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  }
 } 
